@@ -3,7 +3,8 @@
 [https://doi.org/10.1101/2025.07.03.662907]( https://doi.org/10.1101/2025.07.03.662907)
 
 
-## Genetic mapping in the red mason bee Osmia bicornis implicates ANTSR as an ancient sex-determining locus in bees and ants
+## ANTSR is an ancient sex-determining locus in bees
+
 Tilman Rönneburg<sup>1</sup>, Demetris Taliadoros<sup>1</sup>, Anna Olsson<sup>1</sup>, Sara Magnusson<sup>1</sup>, Linn Huser<sup>1</sup>, Muhammad Nafiz Ikhwan Bin Nor Fuad<sup>1</sup>, Turid Everitt<sup>1</sup>, Giselle C. Martín-Hernández<sup>1</sup>, Björn Cederberg<sup>2</sup>, Robert J. Paxton<sup>3</sup>, Karsten Seidelmann<sup>4</sup> and Matthew T. Webster<sup>1*</sup> 
 
 <sup>1</sup> Department of Medical Microbiology and Biochemistry, SciLifeLab, Uppsala University, Uppsala, Sweden  
